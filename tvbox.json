@@ -1,72 +1,72 @@
 {
+  "name": "LibreTV 影视仓线路",
   "sites": [
     {
-      "api": "https://lzizy1.com/api.php/provide/vod",
-      "key": "lzy",
+      "type": 1,
+      "playerType": 1,
       "name": "🥑量子资源",
-      "playerType": 1,
+      "searchable": 1,
+      "key": "lzy",
       "quickSearch": 1,
-      "type": 1,
-      "filterable": 1,
-      "searchable": 1
+      "api": "https://lzizy1.com/api.php/provide/vod",
+      "filterable": 1
     },
     {
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "key": "hy",
+      "type": 1,
+      "playerType": 1,
       "name": "🐯虎牙采集",
-      "playerType": 1,
+      "searchable": 1,
+      "key": "hy",
       "quickSearch": 1,
-      "type": 1,
-      "filterable": 1,
-      "searchable": 1
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "filterable": 1
     },
     {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "key": "hh",
+      "type": 1,
+      "playerType": 1,
       "name": "🦊火狐采集",
-      "playerType": 1,
+      "searchable": 1,
+      "key": "hh",
       "quickSearch": 1,
-      "type": 1,
-      "filterable": 1,
-      "searchable": 1
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "filterable": 1
     },
     {
-      "api": "https://app.bfzyapi.com/api.php/provide/vod",
-      "key": "bf",
+      "type": 1,
+      "playerType": 1,
       "name": "🌪️暴风影音",
-      "playerType": 1,
+      "searchable": 1,
+      "key": "bf",
       "quickSearch": 1,
-      "type": 1,
-      "filterable": 1,
-      "searchable": 1
+      "api": "https://app.bfzyapi.com/api.php/provide/vod",
+      "filterable": 1
     },
     {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "key": "ff",
-      "name": "✨非凡影视",
-      "playerType": 1,
-      "quickSearch": 1,
       "type": 1,
-      "filterable": 1,
-      "searchable": 1
+      "playerType": 1,
+      "name": "✨非凡影视",
+      "searchable": 1,
+      "key": "ff",
+      "quickSearch": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "filterable": 1
     }
   ],
-  "name": "LibreTV 影视仓线路",
   "lives": [
     {
-      "group": "少儿频道",
-      "url": "https://raw.githubusercontent.com/ma0603kang/libretv-sources/main/kids.m3u",
-      "name": "少儿频道"
+      "url": "https://cdn.jsdelivr.net/gh/ma0603kang/libretv-sources@main/kids.m3u",
+      "name": "少儿频道",
+      "group": "少儿频道"
     },
     {
-      "group": "国内直播IPv4",
       "url": "https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/ipv4.m3u",
-      "name": "国内直播IPv4"
+      "name": "国内直播IPv4",
+      "group": "国内直播IPv4"
     },
     {
-      "group": "中国频道备用",
       "url": "https://cdn.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn.m3u",
-      "name": "中国频道备用"
+      "name": "中国频道备用",
+      "group": "中国频道备用"
     }
   ]
 }
