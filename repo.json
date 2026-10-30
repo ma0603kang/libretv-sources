@@ -1,9 +1,9 @@
 {
+  "name": "LibreTV 仓库",
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/ma0603kang/libretv-sources/main/tvbox.json",
-      "name": "LibreTV 线路"
+      "name": "LibreTV 线路",
+      "url": "https://raw.githubusercontent.com/ma0603kang/libretv-sources/main/tvbox.json?v=2"
     }
-  ],
-  "name": "LibreTV 仓库"
+  ]
 }
