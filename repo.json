@@ -3,7 +3,7 @@
   "urls": [
     {
       "name": "LibreTV 线路",
-      "url": "https://raw.githubusercontent.com/ma0603kang/libretv-sources/main/tvbox.json?v=2"
+      "url": "https://cdn.jsdelivr.net/gh/ma0603kang/libretv-sources@main/tvbox.json?v=3"
     }
   ]
 }
