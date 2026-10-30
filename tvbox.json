@@ -1,0 +1,70 @@
+{
+  "name": "LibreTV 影视仓线路",
+  "urls": [],
+  "lives": [
+    {
+      "group": "少儿频道",
+      "url": "https://raw.githubusercontent.com/ma0603kang/libretv-sources/main/kids.m3u"
+    },
+    {
+      "group": "国内直播IPv4",
+      "url": "https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/ipv4.m3u"
+    },
+    {
+      "group": "中国频道备用",
+      "url": "https://cdn.jsdelivr.net/gh/iptv-org/iptv@master/streams/cn.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "playerType": 1,
+      "key": "lzy",
+      "name": "🥑量子资源",
+      "filterable": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod",
+      "searchable": 1,
+      "type": 1,
+      "quickSearch": 1
+    },
+    {
+      "playerType": 1,
+      "key": "hy",
+      "name": "🐯虎牙采集",
+      "filterable": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "type": 1,
+      "quickSearch": 1
+    },
+    {
+      "playerType": 1,
+      "key": "hh",
+      "name": "🦊火狐采集",
+      "filterable": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "type": 1,
+      "quickSearch": 1
+    },
+    {
+      "playerType": 1,
+      "key": "bf",
+      "name": "🌪️暴风影音",
+      "filterable": 1,
+      "api": "https://app.bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "type": 1,
+      "quickSearch": 1
+    },
+    {
+      "playerType": 1,
+      "key": "ff",
+      "name": "✨非凡影视",
+      "filterable": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "type": 1,
+      "quickSearch": 1
+    }
+  ]
+}
