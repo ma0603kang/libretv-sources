@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1,海南少儿
+http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+#EXTINF:-1,河北少儿
+http://1.94.31.214/php/hebei.php?id=sekj
+#EXTINF:-1,金鹰纪实
+http://tvbox6.icu/tv/mgtv.php?id=316
+#EXTINF:-1,金鹰卡通
+http://tvbox6.icu/tv/mgtv.php?id=287
+#EXTINF:-1,龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
